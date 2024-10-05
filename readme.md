@@ -9,6 +9,12 @@ DockerFlutterBuilder 是一个基于 Docker 的工具，用于自动化构建 Fl
 - 易于使用：通过最小化配置，简化了构建过程。
 - 可扩展：非常适合用于 CI/CD 流水线以及跨平台开发团队。
 
+## TODO
+
+- [ ] Windows
+- [ ] MacOS
+- [ ] IOS
+
 ## 使用示例
 
 ### Android
